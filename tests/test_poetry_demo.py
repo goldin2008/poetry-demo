@@ -1,0 +1,6 @@
+# tests/test_poetry_demo.py
+
+from poetry_demo import __version__
+
+def test_version():
+    assert __version__ == "0.1.0"
