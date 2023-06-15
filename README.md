@@ -12,9 +12,11 @@
 
 > https://realpython.com/python-modules-packages/
 
+> https://realpython.com/effective-python-environment/
+
 > https://realpython.com/if-name-main-python/
 
-> https://realpython.com/effective-python-environment/
+
 
 
 > https://realpython.com/python-continuous-integration/
